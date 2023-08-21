@@ -20,6 +20,7 @@ export default {};
   width: 100%;
   height: 162px;
   background-color: white;
+  border: solid black 1px;
 }
 
 /* Font stylization */

@@ -54,5 +54,6 @@ export default defineComponent({
 
 .carousel__pagination-button::after {
   background-color: #08377ab4;
+  height: 8px;
 }
 </style>
