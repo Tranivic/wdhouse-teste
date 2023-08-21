@@ -16,7 +16,6 @@ export default {};
 <style lang="css" scoped>
 header {
   color: #152858;
-  font-family: "Poppins", sans-serif;
   height: 508px;
   background: url("../../assets/header_bg.png");
   background-position: center;
