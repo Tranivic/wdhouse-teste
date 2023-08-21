@@ -14,6 +14,7 @@
 export default {};
 </script>
 <style lang="css" scoped>
+/* Font stylization */
 h1 {
   font-weight: 900;
   font-size: 22px;
