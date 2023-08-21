@@ -3,7 +3,7 @@
     <div class="img-placeholder"></div>
     <div class="card-body py-2">
       <h1 class="card-title py-2">Lorem ipsum dolor sit amet?</h1>
-      <p class="card-text py-2 text-center">
+      <p class="text-secondary card-text py-2 text-center">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse augue sem,
         molestie non maximus non, fermentum quis urna. In porta condimentum odio non
         varius. Nam id euismod augue, sit amet placerat quam.

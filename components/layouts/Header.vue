@@ -2,10 +2,9 @@
   <header>
     <div class="header-content container">
       <div class="row">
-        <div class="col">
+        <div class="col-md-6">
           <UIHeaderCard />
         </div>
-        <div class="col"></div>
       </div>
     </div>
   </header>
