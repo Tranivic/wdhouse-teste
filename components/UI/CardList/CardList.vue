@@ -4,7 +4,6 @@
       <Slide v-for="slide in 8" :key="slide">
         <UICardListCardItem />
       </Slide>
-
       <template #addons>
         <pagination />
       </template>
@@ -24,7 +23,7 @@ export default defineComponent({
   data: () => ({
     // Carousel breakpoints
     breakpoints: {
-      1379: {
+      1418: {
         itemsToShow: 4,
         snapAlign: "start",
         mouseDrag: true,

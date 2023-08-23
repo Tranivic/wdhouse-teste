@@ -3,7 +3,7 @@
     <div class="header-content container">
       <div class="row">
         <div class="col-md-6">
-          <UIHeaderCard />
+          <UIHeaderContent />
         </div>
       </div>
     </div>
@@ -13,6 +13,7 @@
 export default {};
 </script>
 <style lang="css" scoped>
+/* Header */
 header {
   color: #152858;
   height: 508px;

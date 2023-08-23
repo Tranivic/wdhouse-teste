@@ -1,8 +1,8 @@
 <template>
-  <main class="container text-center py-4">
+  <main class="container text-center py-5">
     <h2 class="">Texto aqui</h2>
     <h1 class="pt-1 pb-2">Mais outro bem texto aqui</h1>
-    <p class="p-2">
+    <p class="p-2 fs-6">
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mattis risus sit amet
       libero porttitor laoreet. Nullam ut volutpat nisi. Phasellus id tempus orci. Donec
       eget orci eget dolor condimentum sodales.

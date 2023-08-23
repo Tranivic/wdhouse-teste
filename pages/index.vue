@@ -1,6 +1,6 @@
 <template>
-  <LayoutsHeader />
-  <LayoutsMain />
+  <LayoutHeader />
+  <LayoutMain />
 </template>
 <script>
 export default {};
